@@ -3,7 +3,7 @@ import { ImageIcon } from 'lucide-react';
 
 const ExerciseImage = ({ src, alt, className }) => {
   const [error, setError] = useState(false);
-  const imagePath = `/images/exercises/${src}`;
+  const imagePath = `${import.meta.env.BASE_URL}images/exercises/${src}`;
 
   if (error || !src) {
     return (
