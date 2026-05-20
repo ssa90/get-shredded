@@ -1,0 +1,109 @@
+[
+  {
+    "id": "insulin",
+    "name": "Insulin",
+    "type": "Metabolic",
+    "icon": "Droplets",
+    "color": "blue",
+    "role": "Blood sugar regulator — the muscle-building AND fat-storing hormone",
+    "description": "Insulin is made by the pancreas and acts like a 'key' that unlocks cells so glucose can enter and be used for energy. When blood glucose rises after eating carbs, insulin is released to bring it back into balance.",
+    "fitness_relevance": "Insulin spikes signal the body to stop burning fat — fat loss halts when insulin is elevated. This is why steady-state blood sugar (from complex carbs, protein, and fats) is better for fat loss than frequent sugar spikes.",
+    "tips": [
+      "Avoid large sugar spikes from simple carbs",
+      "Complex carbs slow glucose entry into blood — better for fat loss",
+      "Post-workout is the ideal time to have faster carbs"
+    ]
+  },
+  {
+    "id": "glucagon",
+    "name": "Glucagon",
+    "type": "Metabolic",
+    "icon": "TrendingUp",
+    "color": "cyan",
+    "role": "Insulin's counterpart — raises blood glucose when it's too low",
+    "description": "Glucagon is produced in the pancreas alongside insulin. When blood glucose drops too low, glucagon breaks down stored glycogen in the liver and releases glucose back into the blood.",
+    "fitness_relevance": "Glucagon activation encourages fat burning. During fasted training or extended cardio, glucagon rises and helps tap into fat stores.",
+    "tips": [
+      "Periods between meals (fasted state) raise glucagon, encouraging fat use",
+      "Glucagon and insulin are always working in opposition"
+    ]
+  },
+  {
+    "id": "testosterone",
+    "name": "Testosterone",
+    "type": "Anabolic",
+    "icon": "Dumbbell",
+    "color": "orange",
+    "role": "Primary male hormone — drives muscle growth, strength, and fat loss",
+    "description": "Testosterone is the primary male hormone responsible for secondary sex characteristics, muscle building, and recovery. Women produce it too, in smaller amounts, and are highly sensitive to it.",
+    "fitness_relevance": "Healthy testosterone levels are essential for muscle gain and fat loss. Long-term hypocaloric (severely low calorie) diets can suppress testosterone. The BEST natural testosterone booster is lifting heavy weights.",
+    "tips": [
+      "Lift heavy — it's the #1 natural testosterone booster",
+      "Don't stay on extreme calorie deficits for too long",
+      "Ensure adequate micronutrient intake (zinc especially)",
+      "For women: lifting will NOT masculinize you — it boosts toning"
+    ]
+  },
+  {
+    "id": "estrogen",
+    "name": "Estrogen",
+    "type": "Anabolic",
+    "icon": "Heart",
+    "color": "pink",
+    "role": "Primary female hormone — regulates the reproductive system",
+    "description": "Estrogen is the female counterpart of testosterone, responsible for the development and regulation of the female reproductive system and secondary sex characteristics.",
+    "fitness_relevance": "Estrogen is essential for women. Lifting weights does NOT reduce estrogen levels enough to harm health. Soy consumption only becomes a concern at extreme, unrealistic intake levels.",
+    "tips": [
+      "Lifting weights will NOT harm estrogen balance for women",
+      "Soy is safe at normal dietary amounts",
+      "Focus on lifting for 'toning' — it's just muscle growth + fat loss"
+    ]
+  },
+  {
+    "id": "leptin",
+    "name": "Leptin",
+    "type": "Regulatory",
+    "icon": "Gauge",
+    "color": "emerald",
+    "role": "The fuel indicator — tells your brain how much fat is stored",
+    "description": "Leptin is your body's fuel level indicator. High leptin tells the brain you have plenty of energy stored, allowing fat to be released for burning. Low leptin (from dieting too long) causes the body to hold onto fat stores.",
+    "fitness_relevance": "Long dieting phases cause leptin to drop, slowing fat loss. This is why a well-timed 'refeed' (a planned higher-carb day) can boost leptin and restart fat loss. Dropping carbs worsens leptin depletion.",
+    "tips": [
+      "A refeed (higher carb day) after 3-4 weeks of dieting can restart fat loss",
+      "Don't stay in a calorie deficit for too long without breaks",
+      "Maintaining some carbs in your diet helps preserve leptin levels"
+    ]
+  },
+  {
+    "id": "ghrelin",
+    "name": "Ghrelin",
+    "type": "Regulatory",
+    "icon": "Utensils",
+    "color": "yellow",
+    "role": "The hunger hormone — rises when you're dieting, not when you need energy",
+    "description": "Ghrelin is the hunger hormone. It rises when you're in a calorie deficit and signals the brain to eat more. Crucially, it rises even though your body has plenty of fat stores it could use.",
+    "fitness_relevance": "Feeling hungry on a diet doesn't mean your body lacks energy — it's ghrelin in action. Your body has abundant fat stores it can use. High-protein meals suppress ghrelin better than carb-heavy meals.",
+    "tips": [
+      "Hunger ≠ energy deficiency — it's just ghrelin",
+      "High protein meals suppress hunger better than carbs",
+      "Drinking water can temporarily reduce ghrelin signals",
+      "This is why dieting is mentally tough — expect hunger and plan for it"
+    ]
+  },
+  {
+    "id": "cortisol",
+    "name": "Cortisol",
+    "type": "Catabolic",
+    "icon": "AlertTriangle",
+    "color": "red",
+    "role": "Stress hormone — friend and foe depending on context",
+    "description": "Cortisol is a catabolic hormone that helps metabolize fat, protein, and carbohydrates — all three. It's released in response to stress and low blood glucose. In fitness, it's often seen as a villain, but it's actually neutral.",
+    "fitness_relevance": "Cortisol is needed for fat loss too. But chronically elevated cortisol (from stress, poor sleep, extreme dieting) causes muscle breakdown. This is why LISS cardio without resistance training can cause muscle loss — it raises cortisol without the anabolic hormones to counter it.",
+    "tips": [
+      "Minimize life stress — it directly impacts body composition",
+      "Sleep is critical — poor sleep chronically raises cortisol",
+      "Combine cardio with weight training to counter cortisol's catabolic effect",
+      "Meditate, pursue hobbies, and protect your mental health"
+    ]
+  }
+]

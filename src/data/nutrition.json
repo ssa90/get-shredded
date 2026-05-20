@@ -1,0 +1,51 @@
+{
+  "targets": {
+    "calories": "1,950",
+    "protein": "140g",
+    "description": "High protein vegetarian meals using your requested staples. Adjust portions slightly based on hunger."
+  },
+  "meals": [
+    {
+      "title": "Breakfast",
+      "calories": "~400",
+      "protein": "25g",
+      "items": [
+        "Oats (40g) cooked with water or skim milk",
+        "1 scoop whey protein (or 100g greek yogurt mixed in)",
+        "3 whole eggs on the side (boiled or scrambled)"
+      ]
+    },
+    {
+      "title": "Lunch",
+      "calories": "~550",
+      "protein": "35g",
+      "items": [
+        "1 cup cooked lentils (Dal)",
+        "150g Low-fat Paneer or Soya Chunks (added to Sabzi)",
+        "2 Roti (skip rice here to save calories)",
+        "Large side salad (cucumbers, tomatoes)"
+      ]
+    },
+    {
+      "title": "Pre/Post Workout Snack",
+      "calories": "~300",
+      "protein": "30g",
+      "items": [
+        "200g Greek Yogurt",
+        "Handful of almonds or walnuts",
+        "1 scoop protein powder (if needed to hit macro goals)"
+      ]
+    },
+    {
+      "title": "Dinner",
+      "calories": "~500",
+      "protein": "40g",
+      "items": [
+        "50g Soya Chunks (highest vegetarian protein source)",
+        "Green Sabzi (spinach, broccoli, or beans)",
+        "1 small portion of Rice (post-workout carbs)",
+        "1 cup Dal"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "tasks": [
+    { "id": "posture", "label": "10-Min Posture Warmup", "icon": "Activity", "color": "text-blue-400" },
+    { "id": "workout", "label": "Daily Workout", "icon": "Dumbbell", "color": "text-purple-400" },
+    { "id": "steps", "label": "Hit 8,000 Steps", "icon": "Flame", "color": "text-orange-400" },
+    { "id": "protein", "label": "Eat 140g Protein", "icon": "Utensils", "color": "text-emerald-400" }
+  ],
+  "routines": {
+    "1": { "title": "Upper Body", "desc": "Chest, Back, Shoulders, Arms" },
+    "2": { "title": "Lower Body & Glutes", "desc": "Quads, Hamstrings, Glutes, Calves" },
+    "3": { "title": "Active Recovery", "desc": "Mobility & Fat Burn" },
+    "4": { "title": "Core Focus", "desc": "Abs, Obliques, Lower Back" },
+    "5": { "title": "Full Body Circuit", "desc": "High Intensity Total Body" },
+    "6": { "title": "Yoga & Walk", "desc": "Flexibility & Light Cardio" },
+    "0": { "title": "Rest Day", "desc": "Recovery & Optional Walk" }
+  }
+}

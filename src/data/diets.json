@@ -1,0 +1,187 @@
+[
+  {
+    "id": "lowcarb",
+    "name": "Low Carb Diet",
+    "ratio": "40F : 25C : 35P",
+    "fat": 40,
+    "carbs": 25,
+    "protein": 35,
+    "tagline": "Trim excess fat while making slow lean gains",
+    "ideal": "Anyone new to structured dieting. Insulin-resistant individuals.",
+    "color": "emerald",
+    "description": "This diet keeps carbs low and fats moderate-to-high. Fats help with satiety, keeping you full even in a deficit. It takes time to show results but is very sustainable.",
+    "tips": [
+      "Start with a 200-300 calorie deficit for the first 2 weeks",
+      "Never cut more than 1,000 calories from TDEE",
+      "Fats in this diet help you stay full — don't fear them",
+      "Good for insulin-resistant individuals and beginners"
+    ],
+    "staples": {
+      "protein": ["Eggs", "Whey Protein", "Paneer", "Greek Yogurt", "Fish", "Chicken"],
+      "carbs": ["Oats (small portions)", "Brown Rice (small portions)", "Green Vegetables", "Sprouts"],
+      "fats": ["Nuts", "Flaxseed", "Olive Oil", "Coconut Oil", "Cheese (small amounts)"]
+    },
+    "meals": [
+      {
+        "title": "Breakfast (~350 kcal)",
+        "protein": "28g",
+        "items": [
+          "3 whole eggs (scrambled or boiled)",
+          "1 cup spinach sautéed in ½ tbsp olive oil",
+          "½ cup oats OR skip for stricter low-carb"
+        ]
+      },
+      {
+        "title": "Lunch (~480 kcal)",
+        "protein": "35g",
+        "items": [
+          "150g low-fat paneer in a sabzi",
+          "Large salad (cucumber, tomatoes, onion)",
+          "1 Roti (reduce if not hitting fat loss goals)"
+        ]
+      },
+      {
+        "title": "Pre/Post Workout (~250 kcal)",
+        "protein": "30g",
+        "items": [
+          "1 scoop whey protein in water",
+          "Handful of almonds or walnuts (good fats + satiety)"
+        ]
+      },
+      {
+        "title": "Dinner (~420 kcal)",
+        "protein": "38g",
+        "items": [
+          "50g soya chunks or 200g Greek yogurt",
+          "1 bowl spinach / broccoli",
+          "Small portion of dal for protein + fibre",
+          "Skip rice at dinner"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "zone",
+    "name": "Zone Diet",
+    "ratio": "30F : 40C : 30P",
+    "fat": 30,
+    "carbs": 40,
+    "protein": 30,
+    "tagline": "Higher carbs — ideal for those with higher muscle mass",
+    "ideal": "People who love carbs and have high carb tolerance. Those with more muscle mass.",
+    "color": "blue",
+    "description": "The Zone Diet has a higher carbohydrate ratio. It is ideal for people with a high tolerance to carbs — typically those with more muscle mass. Keep carb sources clean and time them around your workout.",
+    "tips": [
+      "Consume carbs 1-2 hours before your workout for best performance",
+      "Use oats, brown rice, and sweet potato as your carb sources",
+      "Stay in a small calorie surplus for lean muscle gains",
+      "In a calorie deficit, this diet also works for fat loss"
+    ],
+    "staples": {
+      "protein": ["Eggs", "Chicken", "Whey Protein", "Paneer", "Fish", "Greek Yogurt"],
+      "carbs": ["Brown Rice", "Oats", "Sweet Potato", "Banana", "Wheat / Roti", "Legumes"],
+      "fats": ["Nuts", "Olive Oil", "Flaxseed", "Fish Oil", "Small amounts of Cheese"]
+    },
+    "meals": [
+      {
+        "title": "Breakfast (~450 kcal)",
+        "protein": "30g",
+        "items": [
+          "60g oats cooked with water or skim milk",
+          "1 scoop whey protein mixed in OR 3 whole eggs on side",
+          "1 banana or handful of berries"
+        ]
+      },
+      {
+        "title": "Lunch (~550 kcal)",
+        "protein": "35g",
+        "items": [
+          "1 cup cooked lentils (Dal)",
+          "150g Paneer or Soya Chunks in sabzi",
+          "2 Rotis or 150g brown rice",
+          "Side salad for fibre"
+        ]
+      },
+      {
+        "title": "Pre-Workout (~300 kcal)",
+        "protein": "25g",
+        "items": [
+          "1 scoop whey protein",
+          "1 medium banana or 1 sweet potato (quick carbs for energy)"
+        ]
+      },
+      {
+        "title": "Dinner (~500 kcal)",
+        "protein": "40g",
+        "items": [
+          "50g Soya Chunks or 200g Chicken Breast",
+          "1 small bowl of rice (post-workout carb replenishment)",
+          "Green Sabzi (spinach, beans, broccoli)",
+          "1 cup Dal"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "keto",
+    "name": "Ketogenic Diet",
+    "ratio": "60F : 5C : 35P",
+    "fat": 60,
+    "carbs": 5,
+    "protein": 35,
+    "tagline": "Force your body to burn fat as its primary fuel",
+    "ideal": "Those who struggle with adherence on carb-based diets. Strict fat-loss goal.",
+    "color": "orange",
+    "description": "A ketogenic diet forces the body into ketosis — a state where it burns fat and ketones instead of glucose. Keep carbs below 20-30g per day. It takes 2-3 days to enter ketosis. Do NOT use a refeed until after at least 4 continuous weeks.",
+    "tips": [
+      "Keep carbs below 20-30g per day — even vegetables count",
+      "Ketosis kicks in after 2-3 days — push through the first week",
+      "If you lose 1-2kg in 2-3 days, it's water weight from glycogen depletion",
+      "Do NOT have a refeed for at least 4 continuous weeks",
+      "Higher protein early in adaptation; reduce to 15-20% once in ketosis",
+      "A cheat meal can completely reverse ketosis — stay strict"
+    ],
+    "staples": {
+      "protein": ["Eggs", "Chicken Breast", "Paneer", "Fish", "Whey Protein"],
+      "carbs": ["Spinach", "Dark Green Vegetables (fibre only)", "No grains or fruits"],
+      "fats": ["Paneer (high fat)", "Extra Virgin Coconut Oil", "Nuts", "Flaxseed", "Amul Cheese", "Olive Oil"]
+    },
+    "meals": [
+      {
+        "title": "Breakfast (~400 kcal)",
+        "protein": "30g",
+        "items": [
+          "50g Paneer + 1 Amul Cheese slice",
+          "4 egg whites OR 2 whole eggs scrambled in coconut oil",
+          "Handful of spinach"
+        ]
+      },
+      {
+        "title": "Lunch (~500 kcal)",
+        "protein": "35g",
+        "items": [
+          "100g Paneer sautéed in coconut oil",
+          "1 bowl spinach or dark green vegetables",
+          "NO rice, NO roti, NO fruits"
+        ]
+      },
+      {
+        "title": "Snack (~250 kcal)",
+        "protein": "15g",
+        "items": [
+          "Paneer cubes sautéed in extra virgin coconut oil",
+          "1 Amul Cheese slice"
+        ]
+      },
+      {
+        "title": "Dinner (~450 kcal)",
+        "protein": "40g",
+        "items": [
+          "100g Paneer or 150g Chicken Breast",
+          "1 bowl green vegetables (spinach, broccoli)",
+          "1 tbsp flaxseed or handful of nuts"
+        ]
+      }
+    ]
+  }
+]

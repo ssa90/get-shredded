@@ -1,0 +1,29 @@
+[
+  {
+    "id": "pos1",
+    "title": "1. Dead Hangs",
+    "sets": "3 x 30s",
+    "desc": "Grab your pull-up bar, let your body hang completely loose. Focus on relaxing your shoulders and letting gravity pull your spine straight.",
+    "why": "Opens up the tight chest muscles pulling your shoulders forward.",
+    "image": "dead-hang.png",
+    "video": "https://www.youtube.com/results?search_query=dead+hangs+posture+tutorial"
+  },
+  {
+    "id": "pos2",
+    "title": "2. Wall Angels",
+    "sets": "3 x 10 reps",
+    "desc": "Stand with back, head, and heels flat against a wall. Raise arms like a snow angel, keeping elbows and wrists touching the wall at all times.",
+    "why": "Activates the weak lower trapezius muscles on your back.",
+    "image": "wall-angels.png",
+    "video": "https://www.youtube.com/results?search_query=wall+angels+posture+tutorial"
+  },
+  {
+    "id": "pos3",
+    "title": "3. Chin Tucks",
+    "sets": "3 x 15 reps",
+    "desc": "Sit or stand tall. Gently pull your chin straight back (giving yourself a \"double chin\"). Do not look up or down, just straight back.",
+    "why": "Strengthens deep neck flexors to fix forward head posture.",
+    "image": "chin-tucks.png",
+    "video": "https://www.youtube.com/results?search_query=chin+tucks+posture+tutorial"
+  }
+]

@@ -1,0 +1,137 @@
+{
+  "warmups": [
+    {
+      "id": "wu1",
+      "name": "Arm Circles & Wrist Rolls",
+      "sets": "1",
+      "reps": "60s",
+      "notes": "Forward/backward arm circles, then roll your wrists to prep for pushing/pulling.",
+      "image": "arm-circles.png",
+      "video": "https://www.youtube.com/results?search_query=arm+circles+warm+up"
+    },
+    {
+      "id": "wu2",
+      "name": "Jumping Jacks",
+      "sets": "1",
+      "reps": "60s",
+      "notes": "Get your heart rate up and blood flowing to the muscles.",
+      "image": "jumping-jacks.png",
+      "video": "https://www.youtube.com/results?search_query=jumping+jacks+tutorial"
+    },
+    {
+      "id": "wu3",
+      "name": "Cat-Cow & Downward Dog",
+      "sets": "1",
+      "reps": "60s",
+      "notes": "Mobilize the spine and stretch the hamstrings/calves.",
+      "image": "cat-cow.png",
+      "video": "https://www.youtube.com/results?search_query=cat+cow+downward+dog+flow"
+    }
+  ],
+  "cooldowns": [
+    {
+      "id": "cd1",
+      "name": "Child's Pose",
+      "sets": "1",
+      "reps": "60s",
+      "notes": "Sit back on your heels, stretch arms forward to decompress lower back.",
+      "image": "childs-pose.png",
+      "video": "https://www.youtube.com/results?search_query=childs+pose+stretch"
+    },
+    {
+      "id": "cd2",
+      "name": "Doorway Chest Stretch",
+      "sets": "1",
+      "reps": "30s/side",
+      "notes": "Place forearm on a doorframe and gently turn away to stretch the pecs.",
+      "image": "chest-stretch.png",
+      "video": "https://www.youtube.com/results?search_query=doorway+chest+stretch"
+    },
+    {
+      "id": "cd3",
+      "name": "Standing Quad Stretch",
+      "sets": "1",
+      "reps": "30s/side",
+      "notes": "Pull your heel to your glute to stretch the front of your legs.",
+      "image": "quad-stretch.png",
+      "video": "https://www.youtube.com/results?search_query=standing+quad+stretch"
+    }
+  ],
+  "routines": [
+    {
+      "day": "Monday",
+      "title": "Upper Body",
+      "focus": "Back, Chest, Shoulders, Arms",
+      "exercises": [
+        { "id": "wp1", "name": "Pull-ups (or Negatives)", "sets": "3", "reps": "5-8", "notes": "Use controlled negatives if you can't do full reps yet.", "image": "pull-ups.png", "video": "https://www.youtube.com/results?search_query=negative+pull+ups+tutorial" },
+        { "id": "wp2", "name": "Push-ups", "sets": "3", "reps": "AMRAP", "notes": "As many reps as possible. Drop to knees when failing.", "image": "push-ups.png", "video": "https://www.youtube.com/results?search_query=perfect+push+up+form" },
+        { "id": "wp3", "name": "Pike Push-ups", "sets": "3", "reps": "8-10", "notes": "Hips high in the air. Builds shoulders.", "image": "pike-push-ups.png", "video": "https://www.youtube.com/results?search_query=pike+push+ups+tutorial" },
+        { "id": "wp4", "name": "Scapular Pull-ups", "sets": "3", "reps": "10-12", "notes": "Hang with straight arms, shrug shoulders down and back. Good for traps.", "image": "scapular-pull-ups.png", "video": "https://www.youtube.com/results?search_query=scapular+pull+ups+tutorial" },
+        { "id": "wp22", "name": "Chin-ups (or Negatives)", "sets": "3", "reps": "5-8", "notes": "Palms facing you (supinated grip). Directly targets biceps. Use slow negatives if can't do full reps.", "image": "chin-ups.png", "video": "https://www.youtube.com/results?search_query=chin+ups+tutorial+biceps" },
+        { "id": "wp23", "name": "Chair Dips", "sets": "3", "reps": "10-15", "notes": "Hands on the edge of a sturdy chair behind you, feet out. Lower until elbows hit 90°. Targets triceps.", "image": "chair-dips.png", "video": "https://www.youtube.com/results?search_query=chair+dips+triceps+tutorial" }
+      ]
+    },
+    {
+      "day": "Tuesday",
+      "title": "Lower Body & Glutes",
+      "focus": "Quads, Hamstrings, Glutes, Calves",
+      "exercises": [
+        { "id": "wp5", "name": "Bodyweight Squats", "sets": "4", "reps": "15-20", "notes": "Go deep, keep chest up.", "image": "squats.png", "video": "https://www.youtube.com/results?search_query=bodyweight+squat+form" },
+        { "id": "wp6", "name": "Walking Lunges", "sets": "3", "reps": "12/leg", "notes": "Keep torso upright to target the quads and glutes.", "image": "lunges.png", "video": "https://www.youtube.com/results?search_query=walking+lunges+tutorial" },
+        { "id": "wp7", "name": "Glute Bridges", "sets": "3", "reps": "15-20", "notes": "Squeeze glutes hard at the top. Pause for 2 seconds.", "image": "glute-bridges.png", "video": "https://www.youtube.com/results?search_query=glute+bridge+form" },
+        { "id": "wp24", "name": "Single-Leg Glute Bridge", "sets": "3", "reps": "12/leg", "notes": "Lift one leg off the ground and drive through the planted heel. Strongly targets hamstrings and glutes unilaterally.", "image": "single-leg-glute-bridge.png", "video": "https://www.youtube.com/results?search_query=single+leg+glute+bridge+tutorial" },
+        { "id": "wp25", "name": "Nordic Curl Negatives", "sets": "3", "reps": "5-8", "notes": "Anchor feet under a heavy chair. Slowly lower your body to the floor using your hamstrings. Best hamstring builder with no equipment.", "image": "nordic-curls.png", "video": "https://www.youtube.com/results?search_query=nordic+curl+negatives+tutorial" },
+        { "id": "wp8", "name": "Standing Calf Raises", "sets": "4", "reps": "25", "notes": "Hold onto a wall for balance, stretch calf at the bottom.", "image": "calf-raises.png", "video": "https://www.youtube.com/results?search_query=bodyweight+calf+raises+tutorial" }
+      ]
+    },
+    {
+      "day": "Wednesday",
+      "title": "Active Recovery",
+      "focus": "Mobility & Fat Burn",
+      "exercises": [
+        { "id": "wp9", "name": "Long Walk", "sets": "1", "reps": "45-60 min", "notes": "Keep a brisk pace to burn fat without taxing the nervous system.", "image": "walking.png", "video": "https://www.youtube.com/results?search_query=walking+for+fat+loss" },
+        { "id": "wp10", "name": "Full Body Stretch", "sets": "1", "reps": "15 min", "notes": "Focus on chest, hips, and hamstrings.", "image": "stretching.png", "video": "https://www.youtube.com/results?search_query=15+min+full+body+stretch" }
+      ]
+    },
+    {
+      "day": "Thursday",
+      "title": "Core Focus",
+      "focus": "Abs, Obliques, Lower Back",
+      "exercises": [
+        { "id": "wp11", "name": "Hanging Knee Raises", "sets": "3", "reps": "10-15", "notes": "Hang from pull-up bar, tuck knees to chest. Targets lower abs.", "image": "knee-raises.png", "video": "https://www.youtube.com/results?search_query=hanging+knee+raises+tutorial" },
+        { "id": "wp12", "name": "Plank Hold", "sets": "3", "reps": "Max", "notes": "Keep core tight, don't let hips sag.", "image": "plank.png", "video": "https://www.youtube.com/results?search_query=perfect+plank+form" },
+        { "id": "wp13", "name": "Side Planks", "sets": "3", "reps": "30s/side", "notes": "Targets the obliques.", "image": "side-plank.png", "video": "https://www.youtube.com/results?search_query=side+plank+tutorial" },
+        { "id": "wp14", "name": "Superman Holds", "sets": "3", "reps": "15 reps", "notes": "Lie on stomach, raise arms and legs. Crucial for lower back.", "image": "superman.png", "video": "https://www.youtube.com/results?search_query=superman+exercise+tutorial" },
+        { "id": "wp26", "name": "Prone Y-T-W Raises", "sets": "3", "reps": "10 reps each", "notes": "Lie face down, raise arms into Y, T, and W shapes. Directly targets rear delts, rhomboids, and lower traps — essential for posture and shoulder health.", "image": "ytw-raises.png", "video": "https://www.youtube.com/results?search_query=prone+YTW+raise+tutorial" }
+      ]
+    },
+    {
+      "day": "Friday",
+      "title": "Full Body Circuit",
+      "focus": "High Intensity Total Body",
+      "exercises": [
+        { "id": "wp15", "name": "Burpees", "sets": "4", "reps": "10-12", "notes": "Explosive movement for fat loss and full body conditioning.", "image": "burpees.png", "video": "https://www.youtube.com/results?search_query=how+to+do+a+burpee" },
+        { "id": "wp16", "name": "Jump Squats", "sets": "4", "reps": "12", "notes": "Squat down and explode upwards. Lands softly.", "image": "jump-squats.png", "video": "https://www.youtube.com/results?search_query=jump+squats+tutorial" },
+        { "id": "wp17", "name": "Decline Push-ups", "sets": "3", "reps": "10-15", "notes": "Feet elevated on a chair or bed. Hits upper chest.", "image": "decline-push-ups.png", "video": "https://www.youtube.com/results?search_query=decline+push+ups+tutorial" },
+        { "id": "wp18", "name": "Pull-up Bar Hangs", "sets": "3", "reps": "45s", "notes": "Grip endurance and shoulder health.", "image": "dead-hangs.png", "video": "https://www.youtube.com/results?search_query=dead+hang+benefits" }
+      ]
+    },
+    {
+      "day": "Saturday",
+      "title": "Yoga & Walk",
+      "focus": "Flexibility & Light Cardio",
+      "exercises": [
+        { "id": "wp19", "name": "Yoga Flow", "sets": "1", "reps": "20-30 min", "notes": "Follow a basic vinyasa flow to stretch out all the week's tension.", "image": "yoga.png", "video": "https://www.youtube.com/results?search_query=20+min+yoga+for+beginners" },
+        { "id": "wp20", "name": "Brisk Walk", "sets": "1", "reps": "30 min", "notes": "Get outside, clear your mind, and hit those daily steps.", "image": "walking.png", "video": "https://www.youtube.com/results?search_query=walking+for+fat+loss" }
+      ]
+    },
+    {
+      "day": "Sunday",
+      "title": "Rest Day",
+      "focus": "Recovery & Optional Walk",
+      "exercises": [
+        { "id": "wp21", "name": "Optional Light Walk", "sets": "1", "reps": "20-30 min", "notes": "Very light pace, just to keep the blood flowing.", "image": "walking.png", "video": "https://www.youtube.com/results?search_query=active+recovery+walk" }
+      ]
+    }
+  ]
+}

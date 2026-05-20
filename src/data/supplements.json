@@ -1,0 +1,72 @@
+[
+  {
+    "id": "protein",
+    "name": "Whey Protein",
+    "category": "Essential",
+    "icon": "Beef",
+    "color": "emerald",
+    "tagline": "The foundation of muscle building & recovery",
+    "dosage": "1.6–1.8g per kg of lean body weight per day",
+    "timing": "Post-workout, or any time of day to hit daily protein targets",
+    "how_it_works": "Protein provides the amino acid building blocks your muscles use to repair and grow after training. Whey is fast-absorbing, making it ideal post-workout. Blends work just as well as expensive isolates.",
+    "jc_tip": "Don't fall for expensive isolates — blends are just as good. Food protein sources first, supplement second.",
+    "worth_it": true,
+    "myths": ["Protein shakes will make you bulky", "You need isolate to see results", "More protein = more muscle (there's a ceiling)"]
+  },
+  {
+    "id": "creatine",
+    "name": "Creatine Monohydrate",
+    "category": "Essential",
+    "icon": "Zap",
+    "color": "yellow",
+    "tagline": "More energy to lift, more strength to gain",
+    "dosage": "3–5g per day. No loading phase needed.",
+    "timing": "Any time of day — consistency matters more than timing",
+    "how_it_works": "When lifting heavy, your body uses ATP and Creatine Phosphate (CP) stores for energy. These deplete quickly. Supplementing with Creatine Monohydrate replenishes CP stores — which donates its phosphate to ADP to rapidly re-form ATP. This means more reps, more strength.",
+    "jc_tip": "This is one of the most well-researched supplements available. Anyone who lifts should use it.",
+    "worth_it": true,
+    "myths": ["Creatine causes water retention under skin (false — it draws water INTO muscles, which is good)", "It damages your kidneys (false for healthy individuals)", "You need to cycle it"]
+  },
+  {
+    "id": "bcaa",
+    "name": "BCAA",
+    "category": "Optional",
+    "icon": "Pill",
+    "color": "purple",
+    "tagline": "Useful only if your protein intake is insufficient",
+    "dosage": "5–10g during or around training if needed",
+    "timing": "During or around training",
+    "how_it_works": "BCAAs (Leucine, Isoleucine, Valine) are used by the body for energy during heavy lifting. Supplementing prevents the body from manufacturing them at the expense of other amino acids, leaving more capacity for muscle protein synthesis.",
+    "jc_tip": "You don't really need this if you have enough protein with a complete amino acid profile. Hit your daily protein target first.",
+    "worth_it": false,
+    "myths": ["BCAAs are essential for everyone who trains", "They prevent muscle loss during fasting"]
+  },
+  {
+    "id": "zma",
+    "name": "ZMA",
+    "category": "Optional",
+    "icon": "Moon",
+    "color": "blue",
+    "tagline": "Better sleep, better recovery, better testosterone",
+    "dosage": "As per label — typically taken at bedtime",
+    "timing": "Before sleep on an empty stomach",
+    "how_it_works": "ZMA is Zinc Monomethionine Aspartate + Magnesium Aspartate + Vitamin B6. Athletes lose zinc and magnesium through sweat. Zinc supports 300+ enzymes and boosts free testosterone (especially important as men age). Magnesium improves sleep quality and REM cycles — better sleep means better recovery.",
+    "jc_tip": "Not necessary if your diet already has ample zinc and magnesium. But if you sweat a lot and sleep poorly, it's worth trying.",
+    "worth_it": false,
+    "myths": ["ZMA replaces proper sleep hygiene", "It dramatically boosts testosterone"]
+  },
+  {
+    "id": "multivitamin",
+    "name": "Multivitamin & Minerals",
+    "category": "Essential",
+    "icon": "Shield",
+    "color": "pink",
+    "tagline": "Insurance policy for 26+ micronutrients your body needs daily",
+    "dosage": "1 tablet daily with food",
+    "timing": "With any meal",
+    "how_it_works": "There are 26+ vitamins and minerals your body requires for optimal function daily. No single food provides all of them. Even chromium — required in micrograms — is an essential cofactor for insulin function (which drives fat metabolism). A simple multivitamin covers these gaps cheaply.",
+    "jc_tip": "They come cheap. Just get one. Vegetarians especially need Vitamin B complex (thiamin, riboflavin, niacin) and Vitamin C. Don't forget Omega-3 — fish oil or flaxseed oil (much cheaper).",
+    "worth_it": true,
+    "myths": ["If you eat a balanced diet you don't need supplements (hard to guarantee all 26+ daily)", "Expensive brands are more effective"]
+  }
+]
